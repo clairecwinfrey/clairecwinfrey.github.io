@@ -4,26 +4,17 @@ output: html_document
 date: "2025-09-06"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+Please reach out to me if any of these publications are unavailable to you and you'd like access.
 
-## R Markdown
+1. Winfrey, C.C., Resasco, J., & N. Fierer. (2025). Habitat specialization and edge effects of soil microbial communities in a fragmented landscape, Ecology, 106(4). doi: 10.1002/ecy.70072
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+2. Ramoneda, J., Stallard-Olivera, E., Hoffert, M., Winfrey, C.C., Stadler, M., Niño-García, J.P., Fierer, N. (2023). Science Advances, 9(17). Building a genome-based understanding of bacterial pH preferences. doi: 10.1126/sciadv.adf8998
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+3. Dickey, J.R., Swenie, R.A., Turner, S.C., Winfrey, C.C., Yaffar, D., Padukone, A., Beals, K.K., 
+Sheldon, K.S., & S.N. Kivlin. (2021). The utility of macroecological rules for microbial biogeography. Frontiers in Ecology and Evolution, 9. doi: 10.3389/fevo.2021.633155
 
-```{r cars}
-summary(cars)
-```
+4. Winfrey, C. & Fincke, O. M. (2017). Role of visual and non-visual cues in damselfly mate recognition. International Journal of Odonatology, 20, 43–52. doi: 10.1080/13887890.2017.1297259
 
-## Including Plots
+5. Marhanka, E.C., J.L Watters, N.A. Huron, S.L. McMillin, C.C. Winfrey, D.J. Curtis, D.R. Davis, J.K. Farkas, J.L. Kerby, and C.D. Siler. (2017). Detection of high prevalence of Batrachochytrium dendrobatidis in amphibians from southern Oklahoma, USA. Herpetological Review, 48(1), 70-74.
 
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+6. Davis, D. R., A. D. Geheber, J. L. Watters, M. L. Penrod, K. D. Feller, A. Ashford, J. Kouri, D. Nguyen, K. Shauberger, K. Sheatsley, C. Winfrey, R. Wong, M. B. Sanguila, R. M. Brown & C. D. Siler. (2016). Additions to Philippine Slender Skinks of the Brachymeles bonitae Complex (Reptilia: Squamata: Scincidae) III: a new species from Tablas Island. Zootaxa, 4132, (1), 30-43. doi: 10.11646/zootaxa.4132.1.3 
