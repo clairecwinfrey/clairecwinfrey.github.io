@@ -8,7 +8,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "CV"
-      href: files/CCWinfrey_CV.pdf
+      href: cv.html
 output:
   html_document:
     toc: true

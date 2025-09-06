@@ -1,0 +1,28 @@
+---
+title: "CV"
+output:
+  html_document:
+    toc: false
+---
+
+<!-- Full-width + tall embed just for this page -->
+<style>
+  /* widen only this page's content */
+  .main-container { max-width: 100%; padding-left: 0; padding-right: 0; }
+  /* keep the navbar spanning full width too */
+  .navbar .container { width: 100%; }
+  /* make the PDF fill the viewport height (minus navbar) */
+  .cv-frame {
+    display: block;
+    width: 100%;
+    height: calc(100vh - 70px); /* tweak if your navbar is taller/shorter */
+    border: none;
+  }
+  @media (max-width: 768px) {
+    .cv-frame { height: 80vh; } /* saner on phones */
+  }
+</style>
+
+<p><a href="files/CCWinfrey_CV.pdf" target="_blank" rel="noopener">Open CV (PDF) in a new tab</a></p>
+
+<iframe class="cv-frame" src="files/CCWinfrey_CV.pdf"></iframe>
