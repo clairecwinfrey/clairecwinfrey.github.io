@@ -1,12 +1,14 @@
 name: "clairecwinfrey.github.io"
 output_dir: "."
 navbar:
-  title: "Claire Winfrey's website"
+  title: "Claire Winfrey"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "CV"
+      href: files/CCWinfrey_CV.pdf
 output:
   html_document:
     toc: true
