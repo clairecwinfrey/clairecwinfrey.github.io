@@ -5,8 +5,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
+    - text: "Research"
+      href: Research.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Outreach"
+      href: Outreach.html
     - text: "CV"
       href: cv.html
 output:
