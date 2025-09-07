@@ -1,6 +1,11 @@
+.main-container p,
+.main-container li {
+  font-size: 1.2em;
+  line-height: 1.6;
+}
 .figure-left { 
   float: left; 
-  width: 220px; 
+  width: 242px;   /* was 220px */
   margin: 0 1rem 0.5rem 0; 
 }
 .figure-left img { 
@@ -15,3 +20,22 @@
   margin-top: 0.35rem; 
 }
 .clearfix { clear: both; }
+
+/* Center + shrink the big page title (the H1 generated from YAML 'title') */
+h1.title {
+  text-align: center;
+  font-size: 2.4rem;    /* ~20–25% smaller than default */
+  font-weight: 700;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* If a page title has both classes "title toc-ignore", this still hits it */
+h1.title.toc-ignore { text-align: center; font-size: 1.6rem; }
+
+/* Hide the R Markdown date line under the page title */
+#header h4.date { display: none; }
+
+
+
+
