@@ -8,6 +8,16 @@ date: "2025-09-06"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{=html}
+<style>
+  /* override the Rmd header title, so that title formatted even if site CSS not loaded */
+  #header h1.title { 
+    text-align: center; 
+    font-size: 2.5rem !important; 
+    margin-top: 0.5rem; 
+  }
+</style>
+```
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.

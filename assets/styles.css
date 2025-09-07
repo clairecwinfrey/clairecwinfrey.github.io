@@ -1,8 +1,26 @@
+/* Main body text */
 .main-container p,
 .main-container li {
   font-size: 1.2em;
   line-height: 1.6;
 }
+
+/* Subheadings and subsections */
+/* Draw a line under the headings width */
+.main-container h2 {
+  font-size: 1.3rem;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.25rem;
+  margin-top: 1.25rem;
+}
+
+.main-container h3 {
+  font-size: 1.15rem;
+  border-bottom: 1.5px solid #e0e0e0;
+  padding-bottom: 0.2rem;
+  margin-top: 1rem;
+}
+
 .figure-left { 
   float: left; 
   width: 242px;   /* was 220px */
@@ -35,6 +53,8 @@ h1.title.toc-ignore { text-align: center; font-size: 1.6rem; }
 
 /* Hide the R Markdown date line under the page title */
 #header h4.date { display: none; }
+
+
 
 
 
