@@ -24,7 +24,7 @@
 /* Center + shrink the big page title (the H1 generated from YAML 'title') */
 h1.title {
   text-align: center;
-  font-size: 2.4rem;    /* ~20–25% smaller than default */
+  font-size: 2.5rem;    
   font-weight: 700;
   margin-top: 0.5rem;
   margin-bottom: 1rem;
