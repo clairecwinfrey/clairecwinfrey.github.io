@@ -6,21 +6,29 @@
 }
 
 /* Subheadings and subsections */
-/* Draw a line under the headings width */
+/* Draw a line under the headings and give them clear spacing */
 .main-container h2 {
-  font-size: 1.3rem;
+  font-size: 1.6rem;              /* larger than body text */
   border-bottom: 2px solid #ddd;
   padding-bottom: 0.25rem;
-  margin-top: 1.25rem;
+  margin-top: 1.75rem;            /* space before a new section */
+  margin-bottom: 0.85rem;         /* space after the heading */
 }
 
 .main-container h3 {
-  font-size: 1.15rem;
+  font-size: 1.3rem;              /* larger than body text */
   border-bottom: 1.5px solid #e0e0e0;
   padding-bottom: 0.2rem;
-  margin-top: 1rem;
+  margin-top: 1.25rem;            /* space before a new subsection */
+  margin-bottom: 0.65rem;         /* space after the subheading */
 }
 
+/* Optional: add extra breathing room between logical subsections if your HTML uses <section> */
+.main-container section {
+  margin-bottom: 1.5rem;          /* remove if not needed */
+}
+
+/* Figure styles */
 .figure-left { 
   float: left; 
   width: 242px;   /* was 220px */
@@ -49,11 +57,15 @@ h1.title {
 }
 
 /* If a page title has both classes "title toc-ignore", this still hits it */
-h1.title.toc-ignore { text-align: center; font-size: 1.6rem; }
+h1.title.toc-ignore { 
+  text-align: center; 
+  font-size: 1.6rem; 
+}
 
 /* Hide the R Markdown date line under the page title */
-#header h4.date { display: none; }
-
+#header h4.date { 
+  display: none; 
+}
 
 
 
