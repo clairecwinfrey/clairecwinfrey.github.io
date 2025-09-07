@@ -8,15 +8,15 @@
 /* Subheadings and subsections */
 /* Draw a line under the headings and give them clear spacing */
 .main-container h2 {
-  font-size: 1.6rem;              /* larger than body text */
+  font-size: 1.8em;              /* larger than body text */
   border-bottom: 2px solid #ddd;
   padding-bottom: 0.25rem;
-  margin-top: 1.75rem;            /* space before a new section */
-  margin-bottom: 0.85rem;         /* space after the heading */
+  margin-top: 4rem;            /* space before a new section */
+  margin-bottom: 1.5rem;         /* space after the heading */
 }
 
 .main-container h3 {
-  font-size: 1.3rem;              /* larger than body text */
+  font-size: 1.4em;              /* larger than body text */
   border-bottom: 1.5px solid #e0e0e0;
   padding-bottom: 0.2rem;
   margin-top: 1.25rem;            /* space before a new subsection */
