@@ -29,7 +29,7 @@ output:
 <figure class="centered-figure">
   <img src="assets/img/TyvekTruckSRS_2.jpg" alt="Claire and a truck" class="centered-img">
   <figcaption style="font-weight:600; font-size:1.15rem; line-height:1.25;">
-    Most of my dissertation field research took place in the Corridor Project experimental landscapes at the Savannah River Site, SC, and I'm grateful for Team Corridor and the U.S. Forest Service for making it happen! Photo: Andrea Torres
+    Most of my dissertation field research took place in the Corridor Project experimental landscapes at the Savannah River Site, SC, and I'm grateful to Team Corridor and the U.S. Forest Service for making it happen! Photo: Andrea Torres
   </figcaption>
 </figure>
 
