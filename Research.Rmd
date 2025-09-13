@@ -20,7 +20,7 @@ output:
 .centered-img {
   display: block;
   margin: 1rem auto;   /* centers horizontally */
-  max-width: 1000px;   /* pick a max width you like, or remove */
+  max-width: 1000px;   /* max width */
   width: 100%;         /* scales down on small screens */
   height: auto;
 }
@@ -55,7 +55,9 @@ Motivated by this knowledge gap, we used 16S and ITS rRNA gene sequencing to sur
   </figcaption>
 </figure>
 
-High UV, rapidly fluctuating temperatures, and few nutrients make the atmosphere a harsh place for microorganisms. Yet, diverse microorganisms are found in the near-surface atmosphere. 
+High UV, rapidly fluctuating temperatures, and few nutrients make the atmosphere a harsh place for microorganisms. Yet, diverse fungi, bacteria, archaea, and protists are found in the near-surface atmosphere (i.e., the 'aeromicrobiome'), with transport through the atmosphere long hypothesized to explain the continental or even global ranges of microbes. This project asks three unresolved, key questions in aeromicrobiology, working at habitat boundaries (where savanna-like patches and a forest matrix meet) and a spatial scale of ~100 meters to investigate the influence of local plants and soils on the aeromicrobiome. A better understanding of the aeromicrobiome at ecosystem edges may lead to improved predictions for microbial dispersal and spillover in the context of widespread and increasing habitat fragmentation worldwide.
+
+Questions I addressed in this project: (1) Is the plant community type important for driving differences in the aeromicrobiome at small scales? (2) Which, if any, microbes are shared between the air and local plants and soils? (3) Are there microbial traits that distinguish aerosolized microbes from those in the soil or plant source environments?
 
 ### The diversity and distribution of soil bacteria capable of forming spore-like structures. (in preparation)
 Environmental characteristics that shape bacterial communities, such as pH, moisture, and the availability of carbon and nutrients, are highly patchy both temporally and spatially in soil. How do soil bacteria survive harsh conditions where they live or survive the journey to patches of soil where conditions are better? Ample research has shown that some bacterial taxa armor themselves in tough spore-like structures in response to conditions unfavorable for growth. However, such a strategy should be adaptive for more than just these few phyla that we know independently evolved and form different types of spores.
