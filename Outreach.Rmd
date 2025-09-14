@@ -1,6 +1,7 @@
 ---
-title: "Outreach"
+title: "Outreach and Mentorship"
 output: html_document
+toc: false
 ---
 ```{=html}
 <style>
@@ -13,4 +14,24 @@ output: html_document
 </style>
 ```
 
-This page is currently being re-organized. In the meantime, please see my CV for a list of my outreach and science communication articles and talks. 
+Getting others involved in or just plain excited about ecological research is important to me. I also really enjoy it! Check out some of my favorite experiences below, and for a more complete list, please see my CV.
+
+## Mentorship
+<figure class="figure-left">
+  <img src="assets/img/ClaireAndreaField.jpg" alt="Claire and Andrea in the field">
+  <figcaption style="font-weight:600; font-size:1.15rem; line-height:1.25;">
+    Claire and REU mentee Andrea Torres on a rainy day in the field (on Andrea's birthday!)
+    (Savannah River Site, South Carolina)
+  </figcaption>
+</figure>
+
+I have served as the primary research mentor for two undergraduate students while at CU. I guided these students through their first research experiences in ecology, encompassing the whole research process from field work, lab work, data analysis, and sharing their science (both as a talk and a poster, and for my mentee Andrea, as a co-author on our soon-to-be-submitted bioaerosol paper!). Our research together has been funded by the National Science Foundation, specifically through the programs [Research Experience for Undergraduates (REU)](https://www.nsf.gov/funding/initiatives/reu) and the [Research Experience for Community College Students (RECCS)](https://ceee.colorado.edu/programs/reccs).
+
+* A highlight of time in graduate school has been helping get CU's chapter of Strategies for Ecology Education, Diversity and Sustainability (SEEDS) off the ground in 2021 as one of the graduate student advisors to the new chapter! [SEEDS](https://esa.org/seeds/) is supported by the Ecological Society of America (ESA) and aims to diversify and advance ecology by providing hands-on opportunities for underrepresented undergraduates to get involved in ecology. 
+
+## Science Communication
+I am passionate about engaging non-students in ecological research, too! 
+
+As academic ecologists we often state that a goal of our research is to 'inform policy'. But our research papers are primarily written for other ecologists, and are often not the most accessible to policymakers and boots-on-the-ground conservationists! For this reason, I've contributed to [Conservation Corridor](https://conservationcorridor.org), a website that translates the newest research on landscape and connectivity science into plain language research summaries. You can check out the digests I've written on my own work and that of others [here](https://conservationcorridor.org/author/claire-winfrey/)! 
+
+## Other Outreach
