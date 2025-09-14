@@ -65,6 +65,28 @@ Environmental characteristics that shape bacterial communities, such as pH, mois
 In this project, I address three questions: (1) which soil bacteria form spore-like structures? (2) are these identified spore-forming bacteria more ubiquitous than non-spore-forming bacteria in soil? (3) How do spore-forming bacteria vary across ecosystems and environmental gradients? And (4) are spore-forming soil bacteria more readily dispersed in the near-surface atmosphere? To address these questions, I combine a culture-independent enrichment approach and marker-gene sequencing to classify putative spore-formers and non-spore formers directly in their soil environment.
 
 ## Other Research
+<div class="img-row">
+  <img src="assets/img/Ecivile.png" alt="Enallagma civile marked in the field">
+  <img src="images/pic2.png" alt="pic2">
+  <img src="images/pic3.png" alt="pic3">
+</div>
+
+<style>
+.img-row {
+  display: flex;
+  flex-wrap: wrap;      /* allow wrapping on narrow screens */
+  gap: 10px;            /* space between images */
+  justify-content: center;
+}
+
+.img-row img {
+  flex: 1 1 200px;      /* grow/shrink with min width ~200px */
+  max-width: 100%;      /* don’t overflow container */
+  height: auto;         /* keep aspect ratio */
+  border-radius: 6px;   /* optional: rounded corners */
+}
+</style>
+
 ### Do biogeographical 'rules' apply to microorganisms? [(Dickey et al., 2021)](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2021.633155/full)
 Macroecological 'rules' are a series of patterns that essentially summarize our current understanding of biogeography. Based on centuries of observations of animals and plants, these 'rules' describe the relationships between distribution on the Earth's surface (e.g., latitude, area, temperature) to organismal traits or community assembly and biodiversity. However, our knowledge of if these rules apply to the majority of species on Earth--the largely unseen bacteria, archaea, and fungi--is only now starting to become clear. In this paper, we perform a literature meta-analysis to assess how well microorganisms conform to biogeographical patterns, considering aquatic and terrestrial systems as well as host-assoicated and free-living microbes. Along with Anchal Padukone, I wrote the Island Biogeography section!
 
