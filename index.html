@@ -314,13 +314,17 @@ the distributions of microbes at a landscape scale.</p>
 <div id="microbe" class="microbe" role="img"
 aria-label="wandering microbe" title="click me">
 <p><svg viewBox="-40 -40 80 80" width="80" height="80" aria-hidden="true">
-<!-- Body --> <g class="body">
-<ellipse cx="0" cy="0" rx="18" ry="12" fill="var(--microbe-fill, #49d3c7)" stroke="#0b5850" stroke-width="2"/>
-<!-- Eye --> <circle cx="6" cy="-2" r="2.4" fill="#0b0b0b"/>
-<circle cx="7" cy="-2.6" r="1" fill="#fff"/> </g>
-<!-- Tail (flagellum) --> <g class="tail">
-<path d="M -18 0 C -26 -4, -33 -10, -38 -14" fill="none" stroke="#0b5850" stroke-width="3" stroke-linecap="round"/>
-<path d="M -18 0 C -26  4, -33  10, -38  14" fill="none" stroke="#0b5850" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+<!-- Body: rounded-rect capsule --> <g class="body">
+<rect x="-22" y="-10" width="44" height="20" rx="10" ry="10"
+            fill="var(--microbe-fill, #49d3c7)" stroke="#0b5850" stroke-width="2"/>
+<!-- Eye --> <circle cx="8" cy="-2" r="2.4" fill="#0b0b0b"/>
+<circle cx="9" cy="-2.6" r="1" fill="#fff"/> </g>
+<!-- Tail (flagellum) anchored at left end (-22,0) --> <g class="tail">
+<path d="M -22 0
+               C -26 -6, -30 -6, -34 0
+               S -42  6, -46  0
+               S -50 -6, -54  0"
+            fill="none" stroke="#0b5850" stroke-width="4" stroke-linecap="round"/>
 </g> </svg></p>
 </div>
 <style>
