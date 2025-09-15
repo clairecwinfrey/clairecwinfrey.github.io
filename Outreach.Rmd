@@ -77,10 +77,9 @@ As academic ecologists we often state that a goal of our research is to 'inform 
 
 .img-row figcaption {
   font-size: 1.15rem;       /* slightly smaller text */
-  font-weight:600;            /* grey for subtlety */
+  font-weight:600;            
   line-height:1.25;
 }
-
 
 /* Mobile responsiveness */
 @media (max-width: 600px) {
