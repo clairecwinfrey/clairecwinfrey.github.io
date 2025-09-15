@@ -94,7 +94,7 @@ See a more accessibly worded summary of this research that I wrote for [<em>Cons
 </style>
 
 
-High UV, rapidly fluctuating temperatures, and few nutrients make the atmosphere a harsh place for microorganisms. Yet, diverse fungi, bacteria, archaea, and protists are found in the near-surface atmosphere (i.e., the 'aeromicrobiome'), with transport through the atmosphere long hypothesized to explain the continental or even global ranges of microbes. 
+High UV, rapidly fluctuating temperatures, and few nutrients make the atmosphere a harsh place for microorganisms. Yet, diverse fungi, bacteria, archaea, and protists are found in the near-surface atmosphere (i.e., the 'aeromicrobiome'), with transport through the atmosphere long hypothesized to explain the continental or even global ranges of some microbes. 
 
 This project asks three unresolved, key questions in aeromicrobiology, working at habitat boundaries (where savanna-like patches and a forest matrix meet) and a spatial scale of ~100 meters to investigate the influence of local plants and soils on the aeromicrobiome. A better understanding of the aeromicrobiome at ecosystem edges may lead to improved predictions for microbial dispersal and spillover in the context of widespread and increasing habitat fragmentation worldwide.
 

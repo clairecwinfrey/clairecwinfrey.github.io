@@ -30,9 +30,18 @@ I have served as the primary research mentor for two undergraduate students whil
 * A highlight of time in graduate school has been helping get CU's chapter of Strategies for Ecology Education, Diversity and Sustainability (SEEDS) off the ground in 2021 as one of the graduate student advisors to the new chapter! [SEEDS](https://esa.org/seeds/) is supported by the Ecological Society of America (ESA) and aims to diversify and advance ecology by providing hands-on opportunities for underrepresented undergraduates to get involved in ecology. 
 
 ## Science Communication
+<figure class="figure-left">
+  <img src="assets/img/KnoxvilleEarthFest_2018_cropped.jpg" alt="picture of Claire at Knoxville Earth Day Fest">
+  <figcaption style="font-weight:600; font-size:1.15rem; line-height:1.25;">
+    Giving a talk about soil ecology and soil health at the Knoxville Earth Day Fest
+  </figcaption>
+</figure>
+
 I am passionate about engaging non-students in ecological research, too! 
 
-As academic ecologists we often state that a goal of our research is to 'inform policy'. But this can be easier said than done—our research papers are primarily written for other ecologists, and are often not the most accessible to policymakers and boots-on-the-ground conservationists! For this reason, I've contributed to [Conservation Corridor](https://conservationcorridor.org), a website that translates the newest research on landscape and connectivity science into plain language research summaries. You can check out the digests I've written on my own work and that of others [here](https://conservationcorridor.org/author/claire-winfrey/)! 
+As academic ecologists we often state that a goal of our research is to 'inform policy'. But this can be easier said than done—our research papers are primarily written for other ecologists, and are often not the most accessible to policymakers and boots-on-the-ground conservationists! For this reason, I've contributed to [Conservation Corridor](https://conservationcorridor.org), a website that translates the newest research on landscape and connectivity science into plain language research summaries. You can check out the digests I've written on my own work and that of others [here](https://conservationcorridor.org/author/claire-winfrey/)!
+
+I've also given public talks about my research and other topics in ecology, in venues ranging from the Great Smoky National Park as a Part of their <em>Science at Sugarlands</em> series to the Knoxville Earth Day fest! 
 
 ## Other Outreach
 <div class="img-row">
