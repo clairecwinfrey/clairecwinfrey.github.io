@@ -27,7 +27,7 @@ Getting others involved in or just plain excited about ecological research is im
 
 I have served as the primary research mentor for two undergraduate students while at CU. I guided these students through their first research experiences in ecology, encompassing the whole research process from field work, lab work, data analysis, and sharing their science (both as a talk and a poster, and for my mentee Andrea, as a co-author on our soon-to-be-submitted bioaerosol paper!). Our research together has been funded by the National Science Foundation, specifically through the programs [Research Experience for Undergraduates (REU)](https://www.nsf.gov/funding/initiatives/reu) and the [Research Experience for Community College Students (RECCS)](https://ceee.colorado.edu/programs/reccs).
 
-* A highlight of time in graduate school has been helping get CU's chapter of Strategies for Ecology Education, Diversity and Sustainability (SEEDS) off the ground in 2021 as one of the graduate student advisors to the new chapter! [SEEDS](https://esa.org/seeds/) is supported by the Ecological Society of America (ESA) and aims to diversify and advance ecology by providing hands-on opportunities for underrepresented undergraduates to get involved in ecology. 
+An additional highlight of time in graduate school has been helping get CU's chapter of Strategies for Ecology Education, Diversity and Sustainability (SEEDS) off the ground in 2021 as one of the graduate student advisors to the new chapter! [SEEDS](https://esa.org/seeds/) is supported by the Ecological Society of America (ESA) and aims to diversify and advance ecology by providing hands-on opportunities for undergraduates from under-represented groups to get involved in ecology. 
 
 ## Science Communication
 <figure class="figure-left">
@@ -41,7 +41,7 @@ I am passionate about engaging non-students in ecological research, too!
 
 As academic ecologists we often state that a goal of our research is to 'inform policy'. But this can be easier said than done—our research papers are primarily written for other ecologists, and are often not the most accessible to policymakers and boots-on-the-ground conservationists! For this reason, I've contributed to [Conservation Corridor](https://conservationcorridor.org), a website that translates the newest research on landscape and connectivity science into plain language research summaries. You can check out the digests I've written on my own work and that of others [here](https://conservationcorridor.org/author/claire-winfrey/)!
 
-I've also given public talks about my research and other topics in ecology, in venues ranging from the Great Smoky National Park as a Part of their <em>Science at Sugarlands</em> series to the Knoxville Earth Day fest! 
+I've also given public talks about my research and other topics in ecology, in venues ranging from the Great Smoky National Park as a Part of their <em>Science at Sugarlands</em> series to the Knoxville Earth Day Fest! 
 
 ## Other Outreach
 <div class="img-row">
@@ -51,11 +51,11 @@ I've also given public talks about my research and other topics in ecology, in v
   </figure>
   <figure>
     <img src="assets/img/WesternStockShowVolunteering.jpg" alt="Volunteering at National Western Stock Show 2025">
-    <figcaption>Teaching families about aerobiology at the National Western Stock Show in Denver </figcaption>
+    <figcaption>Showing kids dust and pollen under the microscope at the National Western Stock Show in Denver!</figcaption>
   </figure>
   <figure>
-    <img src="assets/img/DarwinDay_2018.avif" alt="Spreading the word about Charles Darwin for Darwin Day at the University of Tennesseee">
-    <figcaption>Spreading the word about Charles Darwin for Darwin Day!</figcaption>
+    <img src="assets/img/DarwinDay_2018.avif" alt="Spreading the word about Charles Darwin for Darwin Day at the University of Tennessee">
+    <figcaption>Spreading the word about Charles Darwin for Darwin Day at the University of Tennessee!</figcaption>
   </figure>
 </div>
 

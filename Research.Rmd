@@ -46,7 +46,7 @@ While edge effects caused by habitat fragmentation have been well documented in 
 
 Motivated by this knowledge gap, we used 16S and ITS rRNA gene sequencing to survey the spatial distributions of soil bacteria, archaea, and fungi communities in replicate ~1 hectare open patches surrounded by forested plantation matrix in South Carolina, USA. We discovered that the greater the vegetation contrast between the patch and the matrix, the more pronounced was the microbial turnover across the edge and more distinct were patch and matrix communities. These observed edge effects were driven mostly by taxa that specialized in the open patch or the forested matrix; there were very few taxa that preferred edge habitat. We next explored if phylogeny or life history traits might distinguish taxa that responded to the edge from generalist taxa. We did not find support for our hypotheses that generalist taxa would be more likely to sporulate or have larger genomes (associated with greater metabolic versatility). However, we did find that Chloroflexi and arbuscular mycorrhizal fungi strongly preferred the open patch over matrix or edge habitat, suggesting that they may be particularly vulnerable to fragment edges. 
 
-See a more accessibly worded summary of this research that I wrote for [<em>Conservation Corridor</em>](https://conservationcorridor.org/digests/2025/05/habitat-fragmentation-and-edges-matter-for-soil-microorganisms/)!
+See the 'digest' of this research that I wrote for [<em>Conservation Corridor</em>](https://conservationcorridor.org/digests/2025/05/habitat-fragmentation-and-edges-matter-for-soil-microorganisms/)!
 
 ### The sources and traits of bacteria and fungi found in the near-surface atmosphere. (Paper to be submitted soon!)
 <div class="figure-stack-left">
@@ -60,7 +60,7 @@ See a more accessibly worded summary of this research that I wrote for [<em>Cons
   <figure>
     <img src="assets/img/TurkeyTails.jpg" alt="zoomed in picture of turkey tail mushrooms ">
     <figcaption style="font-weight:600; font-size:1.0rem; line-height:1.25;">
-      Mushrooms within the genus <em>Trametes</em> were some of the most abundant fungi that we detected in bioaerosols! 
+      Fungi within the genus <em>Trametes</em> were among the most abundant in our bioaerosols! 
     </figcaption>
   </figure>
 </div>
@@ -106,14 +106,14 @@ Questions I addressed in this project: (1) Is the plant community type important
 <figure class="figure-left">
   <img src="assets/img/Biocrust2021_SRS.jpg" alt="picture of biological soil crusts">
   <figcaption style="font-weight:600; font-size:1.15rem; line-height:1.25;">
-    Some of the cyanobacteria within this biological soil crust are likely akinetes, which are spore-like cells produced by some cyanobacteria
+    Some of the cyanobacterial cells within this biological soil crust are likely akinetes. Akinetes are are dormant, spore-like structures that some cyanobacteria produce to survive dry, harsh conditions.
     (Savannah River Site, South Carolina)
   </figcaption>
 </figure>
 
 Environmental characteristics that shape bacterial communities, such as pH, moisture, and the availability of carbon and nutrients, are highly patchy both temporally and spatially in soil. How do soil bacteria survive harsh conditions where they live or survive the journey to patches of soil where conditions are better? Ample research has shown that some bacterial taxa armor themselves in tough spore-like structures in response to conditions unfavorable for growth. However, such a strategy should be adaptive for more than just these few phyla that we know independently evolved and form different types of spores.
 
-In this project, I address three questions: (1) which soil bacteria form spore-like structures? (2) are these identified spore-forming bacteria more ubiquitous than non-spore-forming bacteria in soil? (3) How do spore-forming bacteria vary across ecosystems and environmental gradients? And (4) are spore-forming soil bacteria more readily dispersed in the near-surface atmosphere? To address these questions, I combine a culture-independent enrichment approach and marker-gene sequencing to classify putative spore-formers and non-spore formers directly in their soil environment.
+In this project, I address four questions: (1) which soil bacteria form spore-like structures? (2) are these identified spore-forming bacteria more ubiquitous than non-spore-forming bacteria in soil? (3) How do spore-forming bacteria vary across ecosystems and environmental gradients? And (4) are spore-forming soil bacteria more readily dispersed in the near-surface atmosphere? To address these questions, I combine a culture-independent enrichment approach and marker-gene sequencing to classify putative spore-formers and non-spore formers directly in their soil environment.
 
 ## Other Research
 <div class="img-row">
