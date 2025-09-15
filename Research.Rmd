@@ -60,7 +60,7 @@ See the 'digest' of this research that I wrote for [<em>Conservation Corridor</e
   <figure>
     <img src="assets/img/TurkeyTails.jpg" alt="zoomed in picture of turkey tail mushrooms ">
     <figcaption style="font-weight:600; font-size:1.0rem; line-height:1.25;">
-      Fungi within the genus <em>Trametes</em> were among the most abundant in our bioaerosols! 
+      Fungi within the genus <em>Trametes</em> were among the most abundant in bioaerosols! 
     </figcaption>
   </figure>
 </div>
@@ -99,6 +99,15 @@ High UV, rapidly fluctuating temperatures, and few nutrients make the atmosphere
 This project asks three unresolved, key questions in aeromicrobiology, working at habitat boundaries (where savanna-like patches and a forest matrix meet) and a spatial scale of ~100 meters to investigate the influence of local plants and soils on the aeromicrobiome. A better understanding of the aeromicrobiome at ecosystem edges may lead to improved predictions for microbial dispersal and spillover in the context of widespread and increasing habitat fragmentation worldwide.
 
 Questions I addressed in this project: (1) Is the plant community type important for driving differences in the aeromicrobiome at small scales? (2) Which, if any, microbes are shared between the air and local plants and soils? (3) Are there microbial traits that distinguish aerosolized microbes from those in the soil or plant source environments?
+
+<p>
+  Check out my recent CIRES Rendezvous poster of this work here:  
+  <a href="assets/img/RendezvousPoster_2025.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="assets/img/PDF_file_icon.svg.png" alt="PDF" style="width:16px; height:16px; vertical-align:middle; margin-right:4px;">
+    Open PDF
+  </a>
+</p>
+
 
 <div class="clear-below"></div>
 <h3 style="clear: both; margin-top: 0em;">The diversity and distribution of soil bacteria capable of forming spore-like structures. (in preparation)</h3>
