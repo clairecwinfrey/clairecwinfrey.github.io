@@ -48,7 +48,7 @@ Motivated by this knowledge gap, we used 16S and ITS rRNA gene sequencing to sur
 
 See the 'digest' of this research that I wrote for [<em>Conservation Corridor</em>](https://conservationcorridor.org/digests/2025/05/habitat-fragmentation-and-edges-matter-for-soil-microorganisms/)!
 
-### The sources and traits of bacteria and fungi found in the near-surface atmosphere. (Paper to be submitted soon!)
+### The sources and traits of bacteria and fungi found in the near-surface atmosphere. (In review at <em>Applied and Environmental Microbiology</em>)
 <div class="figure-stack-left">
   <figure>
     <img src="assets/img/andreaLookingInWonderUPAS.jpg" alt="picture of Andrea Torres">
