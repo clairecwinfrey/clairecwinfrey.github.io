@@ -25,7 +25,7 @@ Getting others involved in or just plain excited about ecological research is im
   </figcaption>
 </figure>
 
-I have served as the primary research mentor for two undergraduate students while at CU. I guided these students through their first research experiences in ecology, encompassing the whole research process from field work, lab work, data analysis, and sharing their science (both as a talk and a poster, and for my mentee Andrea, as a co-author on our soon-to-be-submitted bioaerosol paper!). Our research together has been funded by the National Science Foundation, specifically through the programs [Research Experience for Undergraduates (REU)](https://www.nsf.gov/funding/initiatives/reu) and the [Research Experience for Community College Students (RECCS)](https://ceee.colorado.edu/programs/reccs).
+I have served as the primary research mentor for two undergraduate students while at CU. I guided these students through their first research experiences in ecology, encompassing the whole research process from field work, lab work, data analysis, and sharing their science (both as a talk and a poster, and for my mentee Andrea, as a co-author on our recently accepted bioaerosol paper!). Our research together has been funded by the National Science Foundation, specifically through the programs [Research Experience for Undergraduates (REU)](https://www.nsf.gov/funding/initiatives/reu) and the [Research Experience for Community College Students (RECCS)](https://ceee.colorado.edu/programs/reccs).
 
 An additional highlight of time in graduate school has been helping get CU's chapter of Strategies for Ecology Education, Diversity and Sustainability (SEEDS) off the ground in 2021 as one of the graduate student advisors to the new chapter! [SEEDS](https://esa.org/seeds/) is supported by the Ecological Society of America (ESA) and aims to diversify and advance ecology by providing hands-on opportunities for undergraduates from under-represented groups to get involved in ecology. 
 
@@ -45,6 +45,10 @@ I've also given public talks about my research and other topics in ecology, in v
 
 ## Other Outreach
 <div class="img-row">
+<figure>
+    <img src="assets/img/Claire2026SpurVolunteering.jpeg" alt="Showing a child pollen under a microscope at “Girls & Science” at Second Saturday at CSU Spur!">
+    <figcaption>Showing a child pollen under a microscope at “Girls & Science” at Second Saturday at CSU Spur</figcaption>
+  </figure>
   <figure>
     <img src="assets/img/Darwin_b-day2019_noKidsFaces.jpg" alt="Helping Children With Ecology Activity">
     <figcaption>Teaching kids about evolution at the McClung Museum!</figcaption>

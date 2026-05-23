@@ -33,6 +33,6 @@ output:
   }
 </style>
 
-<p><a href="files/CCWinfrey_CV_Nov2025.pdf" target="_blank" rel="noopener">Open CV (PDF) in a new tab</a></p>
+<p><a href="files/CCWinfrey_CV_May2026.pdf" target="_blank" rel="noopener">Open CV (PDF) in a new tab</a></p>
 
-<iframe class="cv-frame" src="files/CCWinfrey_CV_Nov2025.pdf"></iframe>
+<iframe class="cv-frame" src="files/CCWinfrey_CV_May2026.pdf"></iframe>

@@ -48,7 +48,7 @@ Motivated by this knowledge gap, we used 16S and ITS rRNA gene sequencing to sur
 
 See the 'digest' of this research that I wrote for [<em>Conservation Corridor</em>](https://conservationcorridor.org/digests/2025/05/habitat-fragmentation-and-edges-matter-for-soil-microorganisms/)!
 
-### The sources and traits of bacteria and fungi found in the near-surface atmosphere. (In review at <em>Applied and Environmental Microbiology</em>)
+### The sources and traits of bacteria and fungi found in the near-surface atmosphere. (Accepted in <em>Applied and Environmental Microbiology</em>)
 <div class="figure-stack-left">
   <figure>
     <img src="assets/img/andreaLookingInWonderUPAS.jpg" alt="picture of Andrea Torres">
@@ -122,7 +122,7 @@ Questions I addressed in this project: (1) Is the plant community type important
 
 Environmental characteristics that shape bacterial communities, such as pH, moisture, and the availability of carbon and nutrients, are highly patchy both temporally and spatially in soil. How do soil bacteria survive harsh conditions where they live or survive the journey to patches of soil where conditions are better? Ample research has shown that some bacterial taxa armor themselves in tough spore-like structures in response to conditions unfavorable for growth. However, such a strategy should be adaptive for more than just these few phyla that we know independently evolved and form different types of spores.
 
-In this project, I address four questions: (1) which soil bacteria form spore-like structures? (2) are these identified spore-forming bacteria more ubiquitous than non-spore-forming bacteria in soil? (3) How do spore-forming bacteria vary across ecosystems and environmental gradients? And (4) are spore-forming soil bacteria more readily dispersed in the near-surface atmosphere? To address these questions, I combine a culture-independent enrichment approach and marker-gene sequencing to classify putative spore-formers and non-spore formers directly in their soil environment.
+In this project, I address three questions: (1) which soil bacteria form spore-like structures? (2) are these identified spore-forming bacteria more ubiquitous than non-spore-forming bacteria in soil? (3) How do spore-forming bacteria vary across ecosystems and environmental gradients? To address these questions, I combine a culture-independent enrichment approach and marker-gene sequencing to classify putative spore-formers and non-spore formers directly in their soil environment.
 
 ## Other Research
 <div class="img-row">

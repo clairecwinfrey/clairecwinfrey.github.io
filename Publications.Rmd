@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Peer Reviewed Publications"
 output: html_document
 date: "2025-09-06"
 ---
@@ -16,7 +16,7 @@ date: "2025-09-06"
 
 Please reach out to me if any of these publications are unavailable to you and you'd like access.
 
-1. Winfrey, C.C., Torres-Socualaya, A.A., Resasco, J. & N. Fierer. In review at <em>Applied and Environmental Microbiology</em>. The sources and traits of bacteria and fungi found in the near-surface atmosphere. 
+1. Winfrey, C.C., Torres-Socualaya, A.A., Resasco, J. & N. Fierer. Accepted in <em>Applied and Environmental Microbiology</em>. The sources and traits of bacteria and fungi found in the near-surface atmosphere. 
 
 2. Winfrey, C.C., Resasco, J., & N. Fierer. (2025). Habitat specialization and edge effects of soil microbial communities in a fragmented landscape, <em>Ecology</em>, 106(4). doi: 10.1002/ecy.70072
 
